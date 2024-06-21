@@ -18,7 +18,7 @@ These scripts help manage AWS S3 costs by cleaning up old deployment folders.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/s3-cleanup-scripts.git
+    git clone https://github.com/mayur9099/Sure-Infrastructure-Team-Scripting-Challenge.git
     cd s3-cleanup-scripts
     ```
 
